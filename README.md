@@ -58,7 +58,7 @@ Unit 1: Foundations of Computer Vision & Convolutions
 [![Open in GitHub](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.01%20Introduction%20to%20Computer%20Vision/3.%20Filters%20in%20openCV.ipynb)
 
 **Assignments:**  
-   - Implement image filters manually and visualize convolution effects  
+   - Implement image filters (max 2 filters) manually and visualize convolution effects (feature maps). Create a image classifier with at least 70% of accuracy. The dataset should contain at least 10 images per class.   
 
    - [Image Processing in Python (DataCamp)](https://app.datacamp.com/learn/courses/image-processing-in-python)
 
