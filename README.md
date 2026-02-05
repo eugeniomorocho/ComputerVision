@@ -27,8 +27,9 @@ Welcome to the GitHub repository for the Computer Vision course. This repository
 
 ## Requirements
 
-- Python 3.x as the interpreter
+- `Python 3.x` as the interpreter
 - Additional dependencies specified in each week's lab instructions
+- You have to create a [GitHub](https://github.com) repository and add `@eugeniomorocho` as collaborator.
 
 ## Course Structure
 
@@ -57,7 +58,9 @@ Unit 1: Foundations of Computer Vision & Convolutions
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.01%20Foundations%20of%20CV%20%26%20Convolutions/3.%20Filters%20in%20openCV.ipynb)
 
 **Assignments:**  
-   - Select a dataset with 2 classes. The dataset should contain at least 10 images per class. Plot at least 10 random images in each class. Implement image filters (max 2 filters) manually and visualize the convolution effects (feature maps) obtained after each filter. Justify the kernel values of your selected filters. Create an image classifier with at least 70% of accuracy. Explain in detail how does your classifier work.
+
+   - Lab 01: Classification with Filters  
+   [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.01%20Foundations%20of%20CV%20%26%20Convolutions/Lab01_Classification%20with%20filters.ipynb)
 
    - [Image Processing in Python (DataCamp)](https://app.datacamp.com/learn/courses/image-processing-in-python)
 
