@@ -25,7 +25,6 @@ Welcome to the GitHub repository for the Computer Vision course. This repository
    git fetch 
    ```
 
-
 ## Requirements
 
 - Python 3.x as the interpreter
@@ -55,7 +54,7 @@ Unit 1: Foundations of Computer Vision & Convolutions
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.01%20Introduction%20to%20Computer%20Vision/2.%20Filters%20and%20convolution.ipynb)
 
 3. Filters in OpenCV  
-[![Open in GitHub](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.01%20Introduction%20to%20Computer%20Vision/3.%20Filters%20in%20openCV.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.01%20Foundations%20of%20CV%20%26%20Convolutions/3.%20Filters%20in%20openCV.ipynb)
 
 **Assignments:**  
    - Select a dataset with 2 classes. The dataset should contain at least 10 images per class. Plot at least 10 random images in each class. Implement image filters (max 2 filters) manually and visualize the convolution effects (feature maps) obtained after each filter. Justify the kernel values of your selected filters. Create an image classifier with at least 70% of accuracy. Explain in detail how does your classifier work.
