@@ -89,6 +89,9 @@ Train a CNN for image classification
 - Lab 02  
 - [Online course](link)  
 
+**Aditional Readings:**
+- **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
+
 ---
 
 ### **Unit 3: Transfer Learning & Model Improvement**
@@ -105,6 +108,10 @@ Transfer learning using ResNet or MobileNet
 **Assignments:**  
 - Lab 03  
 - [Online course](link)  
+
+**Aditional Readings:**
+- **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
+
 ---
 
 ### **Unit 4: Object Detection (Midterm Unit)**  
@@ -137,6 +144,9 @@ Train an object detector on a custom dataset using [Roboflow](https://roboflow.c
 - Lab 04  
 - [Online course](link)  
 
+**Aditional Readings:**
+- **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
+
 ---
 
 ### **Unit 5: Image Segmentation & Pose Estimation**
@@ -153,6 +163,9 @@ Segmentation **or** pose estimation mini-project
 **Assignments:**  
 - Lab 05  
 - [Online course](link)  
+
+**Aditional Readings:**
+- **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
 
 ---
 
@@ -171,6 +184,9 @@ Object tracking in video streams
 - Lab 06  
 - [Online course](link)  
 
+**Aditional Readings:**
+- **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
+
 ---
 
 ### **Unit 7: Model Deployment & Edge AI**
@@ -188,6 +204,9 @@ Deploy a trained model as an API and consume it from the cloud (AWS, MS Azure, H
 - Lab 07  
 - [Online course](link)  
 
+**Aditional Readings:**
+- **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
+
 ---
 
 ### **Unit 8: Cloud & Modern Vision AI + Final Project Presentations**
@@ -204,6 +223,9 @@ Use a cloud or foundation vision model for inference and compare results
 **Assignments:**  
 - Lab 08  
 - [Online course](link)  
+
+**Aditional Readings:**
+- **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
 
 ---
 
