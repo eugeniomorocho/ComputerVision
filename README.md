@@ -72,19 +72,39 @@ Unit 1: Foundations of Computer Vision & Convolutions
 
 ### **Unit 2: CNNs for Image Classification**
 **Topics:** Neural networks for vision, convolutional layers, pooling, training pipeline, evaluation metrics  
+
 **Slides**
 Unit 2: CNNs for Image Classification  
 [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://www.canva.com/design/DAHBCVJ9lNs/RfBVZ-nWvwQ-uUc-0mdRaQ/view?utm_content=DAHBCVJ9lNs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hee360a69b2)  
+
 **Tools:** PyTorch  
-**Lab / Deliverable:** Train a CNN for image classification  
+
+**Datasets:**  
+[dataset](url)
+
+**Notebooks:**  
+Train a CNN for image classification  
+
+**Assignments:**  
+- Lab 02  
+- [Online course](link)  
 
 ---
 
 ### **Unit 3: Transfer Learning & Model Improvement**
 **Topics:** Overfitting, regularization, data augmentation, pretrained CNNs, fine-tuning vs feature extraction  
-**Tools:** PyTorch, torchvision  
-**Lab / Deliverable:** Transfer learning using ResNet or MobileNet  
 
+**Tools:** PyTorch, torchvision  
+
+**Datasets:**  
+[dataset](url)
+
+**Notebooks:**  
+Transfer learning using ResNet or MobileNet  
+
+**Assignments:**  
+- Lab 03  
+- [Online course](link)  
 ---
 
 ### **Unit 4: Object Detection (Midterm Unit)**  
@@ -105,37 +125,85 @@ Unit 2: CNNs for Image Classification
 - [Ultralytics](https://www.ultralytics.com)<br>
 - [Roboflow](https://roboflow.com)
 
-
 **Tools:** Ultralytics YOLO, Roboflow, OpenCV (Bounding Boxes Notebook)  
-**Lab / Deliverable:** Train an object detector on a custom dataset using [Roboflow](https://roboflow.com)
+
+**Datasets:**  
+[dataset](url)  
+
+**Notebooks:**  
+Train an object detector on a custom dataset using [Roboflow](https://roboflow.com)  
+
+**Assignments:**  
+- Lab 04  
+- [Online course](link)  
 
 ---
 
 ### **Unit 5: Image Segmentation & Pose Estimation**
 **Topics:** Semantic vs instance segmentation, encoder–decoder architectures, human pose estimation basics  
+
 **Tools:** PyTorch, MediaPipe  
-**Lab / Deliverable:** Segmentation **or** pose estimation mini-project  
+
+**Datasets:**  
+[dataset](url)  
+
+**Notebooks:**  
+Segmentation **or** pose estimation mini-project  
+
+**Assignments:**  
+- Lab 05  
+- [Online course](link)  
 
 ---
 
 ### **Unit 6: Tracking & Video Analysis**
 **Topics:** Detection vs tracking, classical trackers (KCF, CSRT), tracking-by-detection  
+
 **Tools:** OpenCV  
-**Lab / Deliverable:** Object tracking in video streams  
+
+**Datasets:**  
+[dataset](url)  
+
+**Notebooks:**  
+Object tracking in video streams  
+
+**Assignments:**  
+- Lab 06  
+- [Online course](link)  
 
 ---
 
 ### **Unit 7: Model Deployment & Edge AI**
 **Topics:** Inference vs training, running models with ONNX runtime, vision model APIs, edge inference and hardware constraints  
+
 **Tools:** ONNX Runtime, FastAPI, Jetson Nano, MediaPipe, Flutter (iOS, Android and web)  
-**Lab / Deliverable:** Deploy a trained model as an API and consume it from the cloud (AWS, MS Azure, Huawei Cloud, Oracle Cloud, etc.) **or** run inference on Jetson Nano using the GPU **or** on a mobile phone, tablet, watch, TV, etc., using [Flutter](https://flutter.dev/) with MediaPipe
+
+**Datasets:**  
+[dataset](url)  
+
+**Notebooks:**  
+Deploy a trained model as an API and consume it from the cloud (AWS, MS Azure, Huawei Cloud, Oracle Cloud, etc.) **or** run inference on Jetson Nano using the GPU **or** on a mobile phone, tablet, watch, TV, etc., using [Flutter](https://flutter.dev/) with MediaPipe  
+
+**Assignments:**  
+- Lab 07  
+- [Online course](link)  
 
 ---
 
 ### **Unit 8: Cloud & Modern Vision AI + Final Project Presentations**
 **Topics:** Cloud vision APIs, Vision Transformers, Segment Anything Model (conceptual), ethics and real-world deployment  
+
 **Tools:** Cloud vision services (overview)  
-**Lab / Deliverable:** Use a cloud or foundation vision model for inference and compare results  
+
+**Datasets:**  
+[dataset](url)  
+
+**Notebooks:**  
+Use a cloud or foundation vision model for inference and compare results  
+
+**Assignments:**  
+- Lab 08  
+- [Online course](link)  
 
 ---
 
