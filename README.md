@@ -1,10 +1,7 @@
 # Computer Vision
-
-Welcome to the GitHub repository for the Computer Vision course. This repository is designed to provide you with hands-on experience and in-depth understanding of fundamental AI topics. The notebooks include both coding exercises and project-based activities, and were created using Python 3 as the interpreter.
-
+Welcome to the GitHub repository for the Computer Vision course at Yachay Tech University. This repository is designed to provide you with hands-on experience and in-depth understanding of fundamental deep learning-based artificial perception topics. The repository includes both coding exercises and project-based activities, and were created using Python 3.x as the interpreter.
 
 ## Getting Started
-
 1. Clone this repository to your local machine:  
 
    ```
@@ -14,7 +11,7 @@ Welcome to the GitHub repository for the Computer Vision course. This repository
 2. Navigate to the specific Notebook's directory:  
 
    ```
-   cd Computer_Vision/NOTEBOOK_x/
+   cd Computer_Vision/<folder>/<notebook.ipynb>/
    ```
    
 3. Follow the instructions in the file for each week's lab.
@@ -26,16 +23,22 @@ Welcome to the GitHub repository for the Computer Vision course. This repository
    ```
 
 ## Requirements
-
 - `Python 3.x` as the interpreter
 - Additional dependencies specified in each week's lab instructions
-- You have to create a [GitHub](https://github.com) repository and add `@eugeniomorocho` as collaborator.
+- Create a [GitHub](https://github.com) repository for submitting your assignments and add `@eugeniomorocho` as collaborator.
 
-## Course Structure
+## Minimum Contents
+- Image formation, image processing, feature extraction, segmentation, computational photography, 3D reconstruction, and object
+detection and recognition.
+
+## Learning Outcomes
+- Process data from visual representations, images, and video to extract information. Classify images and extract features.
+
+## Course Contents
 
 ### **Unit 1: Foundations of Computer Vision & Convolutions**
 **Topics:**  
-Images as tensors, image filtering and convolution, understanding visual features. 
+Modern computer vision, images as tensors, image filtering and convolution, understanding visual features.  
 
 **Slides:**  
 Unit 1: Foundations of Computer Vision & Convolutions  
@@ -67,7 +70,6 @@ Unit 1: Foundations of Computer Vision & Convolutions
 **Aditional Readings:**
 - **Chapter 15: Linear Image Filtering** Torralba, A., Isola, P., & Freeman, W. (2024). Foundations of Computer Vision. MIT Press. https://visionbook.mit.edu/
 
-
 ---
 
 ### **Unit 2: CNNs for Image Classification**
@@ -80,14 +82,14 @@ Unit 2: CNNs for Image Classification
 **Tools:** PyTorch  
 
 **Datasets:**  
-[dataset](url)
+[dataset](url)  
 
 **Notebooks:**  
 Train a CNN for image classification  
 
 **Assignments:**  
 - Lab 02  
-- [Online course](link)  
+- [Introduction to Deep Learning with PyTorch](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-pytorch)  
 
 **Aditional Readings:**
 - **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
