@@ -62,10 +62,10 @@ Unit 1: Foundations of Computer Vision & Convolutions
 
 **Assignments:**  
 
-- Lab 01: Classification with Filters  
+- *Lab 01:* Classification with Filters  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.01%20Foundations%20of%20CV%20%26%20Convolutions/Lab%2001%3A%20Classification%20with%20filters.ipynb)
 
-- [Image Processing in Python (DataCamp)](https://app.datacamp.com/learn/courses/image-processing-in-python)
+- *DataCamp* course: [Image Processing in Python (DataCamp)](https://app.datacamp.com/learn/courses/image-processing-in-python)
 
 **Aditional Readings:**
 - **Chapter 15: Linear Image Filtering** Torralba, A., Isola, P., & Freeman, W. (2024). Foundations of Computer Vision. MIT Press. https://visionbook.mit.edu/
@@ -85,11 +85,11 @@ Unit 2: CNNs for Image Classification
 [dataset](url)  
 
 **Notebooks:**  
-Train a CNN for image classification  
+1. Train a CNN for image classification with PyTorch  
 
 **Assignments:**  
-- Lab 02  
-- [Introduction to Deep Learning with PyTorch](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-pytorch)  
+- *Lab 02:*  
+- *DataCamp* course: [Introduction to Deep Learning with PyTorch](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-pytorch)  
 
 **Aditional Readings:**
 - **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
@@ -108,7 +108,7 @@ Train a CNN for image classification
 Transfer learning using ResNet or MobileNet  
 
 **Assignments:**  
-- Lab 03  
+- *Lab 03:*    
 - [Online course](link)  
 
 **Aditional Readings:**
