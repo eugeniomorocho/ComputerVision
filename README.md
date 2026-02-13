@@ -77,7 +77,9 @@ Unit 1: Foundations of Computer Vision & Convolutions
 
 **Slides**
 Unit 2: CNNs for Image Classification  
-[![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://www.canva.com/design/DAHBCVJ9lNs/RfBVZ-nWvwQ-uUc-0mdRaQ/view?utm_content=DAHBCVJ9lNs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hee360a69b2)  
+*Part 1:* [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://www.canva.com/design/DAHBCVJ9lNs/RfBVZ-nWvwQ-uUc-0mdRaQ/view?utm_content=DAHBCVJ9lNs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hee360a69b2)  
+
+*Part 2:* [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://www.canva.com/design/DAHBIXVGh88/-l46ADjHryNSzPaFbEJF6A/view?utm_content=DAHBIXVGh88&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4e90a6867d)  
 
 **Tools:** PyTorch  
 
@@ -93,6 +95,8 @@ Unit 2: CNNs for Image Classification
 
 **Aditional Readings:**
 - **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
+
+- **Training a Classifier** PyTorch Tutorial https://docs.pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
 
 ---
 
