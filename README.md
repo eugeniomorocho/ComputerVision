@@ -84,13 +84,15 @@ Unit 2: CNNs for Image Classification
 **Tools:** PyTorch  
 
 **Datasets:**  
-[dataset](url)  
+[CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html), *Department of Computer Science, University of Toronto* 
 
 **Notebooks:**  
 1. Train a CNN for image classification with PyTorch  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.02%20CNNs%20for%20Image%20Classification/1.%20Train%20a%20CNN%20for%20image%20classification%20with%20PyTorch.ipynb)
 
 **Assignments:**  
-- *Lab 02:*  
+- *Lab 02:* Create your own CNN
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.02%20CNNs%20for%20Image%20Classification/Lab%2002%3A%20Image%20classifier.ipynb)  
 - *DataCamp* course: [Introduction to Deep Learning with PyTorch](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-pytorch)  
 
 **Aditional Readings:**
