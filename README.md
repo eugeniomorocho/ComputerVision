@@ -44,7 +44,7 @@ Modern computer vision, images as tensors, image filtering and convolution, unde
 Unit 1: Foundations of Computer Vision & Convolutions  
 [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://www.canva.com/design/DAG9kh3-RYE/s26i4QoK_D1lUX510QcoZQ/view?utm_content=DAG9kh3-RYE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he981cdd10d)
 
-**Tools:** Python, NumPy, OpenCV, PyTorch
+**Tools:** [Python](https://www.python.org), [NumPy](https://numpy.org), [OpenCV](https://opencv.org), [PyTorch](https://pytorch.org)
 
 **Datasets:**  
 [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html), *Department of Computer Science, University of Toronto*
@@ -81,7 +81,7 @@ Unit 2: CNNs for Image Classification
 
 *Part 2:* [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://www.canva.com/design/DAHBIXVGh88/-l46ADjHryNSzPaFbEJF6A/view?utm_content=DAHBIXVGh88&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4e90a6867d)  
 
-**Tools:** PyTorch  
+**Tools:** [PyTorch](https://pytorch.org)  
 
 **Datasets:**  
 [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html), *Department of Computer Science, University of Toronto* 
@@ -91,7 +91,7 @@ Unit 2: CNNs for Image Classification
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.02%20CNNs%20for%20Image%20Classification/1.%20Train%20a%20CNN%20for%20image%20classification%20with%20PyTorch.ipynb)
 
 **Assignments:**  
-- *Lab 02:* Create your own CNN
+- *Lab 02:* Create your own CNN  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.02%20CNNs%20for%20Image%20Classification/Lab%2002%3A%20Image%20classifier.ipynb)  
 - *DataCamp* course: [Introduction to Deep Learning with PyTorch](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-pytorch)  
 
