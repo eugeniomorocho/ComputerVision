@@ -47,6 +47,7 @@ Unit 1: Foundations of Computer Vision & Convolutions
 **Tools:** [Python](https://www.python.org), [NumPy](https://numpy.org), [OpenCV](https://opencv.org), [PyTorch](https://pytorch.org)
 
 **Datasets:**  
+[MNIST](https://www.tensorflow.org/datasets/catalog/mnist), National Institute of Standards and Technology (NIST), Department of Commerce, U.S.  
 [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html), *Department of Computer Science, University of Toronto*
 
 **Notebooks:**  
@@ -65,7 +66,7 @@ Unit 1: Foundations of Computer Vision & Convolutions
 - *Lab 01:* Classification with Filters  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.01%20Foundations%20of%20CV%20%26%20Convolutions/Lab%2001%3A%20Classification%20with%20filters.ipynb)
 
-- *DataCamp* course: [Image Processing in Python (DataCamp)](https://app.datacamp.com/learn/courses/image-processing-in-python)
+- *DataCamp* course: [Image Processing in Python](https://app.datacamp.com/learn/courses/image-processing-in-python)
 
 **Aditional Readings:**
 - **Chapter 15: Linear Image Filtering** Torralba, A., Isola, P., & Freeman, W. (2024). Foundations of Computer Vision. MIT Press. https://visionbook.mit.edu/
