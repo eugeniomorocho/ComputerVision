@@ -48,6 +48,7 @@ History of computer vision, modern computer vision, images as tensors, image fil
 **Slides:**  
 
 Unit 1: Foundations of Computer Vision & Convolutions  
+
 [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://www.canva.com/design/DAG9kh3-RYE/s26i4QoK_D1lUX510QcoZQ/view?utm_content=DAG9kh3-RYE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he981cdd10d)
 
 **Notebooks:**  
@@ -89,6 +90,7 @@ Unit 1: Foundations of Computer Vision & Convolutions
 
 **Slides**
 Unit 2: CNNs for Image Classification  
+
 *Part 1:* [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://www.canva.com/design/DAHBCVJ9lNs/RfBVZ-nWvwQ-uUc-0mdRaQ/view?utm_content=DAHBCVJ9lNs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hee360a69b2)  
 
 *Part 2:* [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://www.canva.com/design/DAHBIXVGh88/-l46ADjHryNSzPaFbEJF6A/view?utm_content=DAHBIXVGh88&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4e90a6867d)  
@@ -129,18 +131,22 @@ Unit 2: CNNs for Image Classification
  CNN architectures, pretrained weights, pretrained CNNs, transfer learning, data augmentation,  fine-tuning and model improvement.
 
  **Slides**
-Unit 3: CNNs for Image Classification  
-*Part 1:* [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://www.canva.com/design/DAHBCVJ9lNs/RfBVZ-nWvwQ-uUc-0mdRaQ/view?utm_content=DAHBCVJ9lNs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hee360a69b2)  
+Unit 3: CNNs for Image Classification
+
+*Part 1:* [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.03%20Transfer%20Learning%20%26%20Model%20Improvement/Lab_03-Model_Improvement.ipynb)  
 
 **Notebooks:**
 
-1. Transfer learning using ResNet or MobileNet  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.02%20CNNs%20for%20Image%20Classification/1.%20Train%20a%20CNN%20for%20image%20classification%20with%20PyTorch.ipynb)
+1. Transfer learning for Computer Vision in Keras  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.03%20Transfer%20Learning%20%26%20Model%20Improvement/Image%20classification/Clasificacion_imagenes_perros_gatos_VGG-16_transfer_learning.ipynb)
+
+2. Transfer learning for Computer Vision in PyTorch  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://docs.pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
 
 **Assignments:**  
 
-- *Lab 03:*
-- [Online course](link)  
+- *Lab 03:* Model Improvement  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.03%20Transfer%20Learning%20%26%20Model%20Improvement/Lab_03-Model_Improvement.ipynb)
 
 **Aditional Readings:**
 
