@@ -112,7 +112,13 @@ Unit 2: CNNs for Image Classification
 
 - **Chapter 3: Building a Deep Neural Network with PyTorch** Ayyadevara, V. K., & Reddy, Y. (2024). *Modern Computer Vision with PyTorch: A practical roadmap from Deep Learning fundamentals to advanced applications and Generative AI (2nd ed.)*. Packt Publishing Ltd. https://www.packtpub.com/en-mt/product/modern-computer-vision-with-pytorch-9781803240930
 
-- **PyTorch Tutorial:**  Defining a Neural Network in PyTorch https://docs.pytorch.org/tutorials/recipes/recipes/defining_a_neural_network.html
+- **Get Started locally with PyTorch:** https://pytorch.org/get-started/locally/
+
+- **Defining a Neural Network in PyTorch:** https://docs.pytorch.org/tutorials/recipes/recipes/defining_a_neural_network.html
+
+- **PyTorch Recipes:** https://docs.pytorch.org/tutorials/recipes_index.html
+
+- **PyTorch Tutorials:** https://docs.pytorch.org/tutorials/ 
 
 ---
 
@@ -120,11 +126,16 @@ Unit 2: CNNs for Image Classification
 
 **Topics:**
 
- CNN architectures, pretrained weights, pretrained CNNs, transfer learning, data augmentation,  fine-tuning.
+ CNN architectures, pretrained weights, pretrained CNNs, transfer learning, data augmentation,  fine-tuning and model improvement.
+
+ **Slides**
+Unit 3: CNNs for Image Classification  
+*Part 1:* [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://www.canva.com/design/DAHBCVJ9lNs/RfBVZ-nWvwQ-uUc-0mdRaQ/view?utm_content=DAHBCVJ9lNs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hee360a69b2)  
 
 **Notebooks:**
 
-Transfer learning using ResNet or MobileNet
+1. Transfer learning using ResNet or MobileNet  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.02%20CNNs%20for%20Image%20Classification/1.%20Train%20a%20CNN%20for%20image%20classification%20with%20PyTorch.ipynb)
 
 **Assignments:**  
 
@@ -133,11 +144,17 @@ Transfer learning using ResNet or MobileNet
 
 **Aditional Readings:**
 
-- **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
+- **Chapter 37: Transfer Learning and Adaptation** Torralba, A., Isola, P., & Freeman, W. (2024). *Foundations of Computer Vision*. MIT Press. https://visionbook.mit.edu/
+
+- **Chapter 5: Transfer Learning for Image Classification** Ayyadevara, V. K., & Reddy, Y. (2024). *Modern Computer Vision with PyTorch: A practical roadmap from Deep Learning fundamentals to advanced applications and Generative AI (2nd ed.)*. Packt Publishing Ltd. https://www.packtpub.com/en-mt/product/modern-computer-vision-with-pytorch-9781803240930
+
+- **Transfer learning or fine-tuning of a model** Shanmugamani, R. (2018). *Deep Learning for Computer Vision: Expert techniques to train advanced neural networks using TensorFlow and Keras (1st ed.)*. Packt Publishing Ltd. https://www.packtpub.com/en-us/product/deep-learning-for-computer-vision-9781788295628
+
+- **PyTorch Models and Pre-trained Weights:** https://docs.pytorch.org/vision/stable/models.html
 
 **Tools:**
 
-PyTorch, torchvision  
+PyTorch, torchvision.
 
 **Datasets:**
 
