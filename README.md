@@ -169,7 +169,7 @@ Unit 3: CNNs for Image Classification
 
 ---
 
-### **Unit 4: Object Detection (Midterm Unit)**  
+### **Unit 4: Object Detection**  
 **Topics:** Classification vs detection, bounding boxes & IoU, YOLO architecture, dataset annotation  
 
 **Notebooks:**  
