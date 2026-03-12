@@ -198,8 +198,7 @@ Unit 3: CNNs for Image Classification
 - [Roboflow tutorial](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.04%20Object%20Detection/Object%20Detection/roboflow_tutorial.pdf)
 
 **Assignments:**  
-- Lab 04  
-- [Online course](link)  
+Notebooks 1, 2, and 3.
 
 **Aditional Readings:**
 - **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
