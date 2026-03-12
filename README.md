@@ -193,7 +193,9 @@ Unit 3: CNNs for Image Classification
 [dataset](url)  
 
 **Notebooks:**  
-Train an object detector on a custom dataset using [Roboflow](https://roboflow.com)  
+- Train an object detector on a custom dataset using [Roboflow](https://roboflow.com)  
+
+- [Roboflow tutorial](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.04%20Object%20Detection/Object%20Detection/roboflow_tutorial.pdf)
 
 **Assignments:**  
 - Lab 04  
