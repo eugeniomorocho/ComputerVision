@@ -190,7 +190,7 @@ Unit 3: CNNs for Image Classification
 **Tools:** Ultralytics YOLO, Roboflow, OpenCV (Bounding Boxes Notebook)  
 
 **Datasets:**  
-[dataset](url)  
+[Common Objects in Contexr (COCO)](https://cocodataset.org/#home)  
 
 **Notebooks:**  
 - Train an object detector on a custom dataset using [Roboflow](https://roboflow.com)  
