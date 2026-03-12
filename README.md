@@ -160,7 +160,7 @@ Unit 3: CNNs for Image Classification
 
 **Tools:**
 
-PyTorch, torchvision.
+- [Streamlit](https://streamlit.io)
 
 **Datasets:**
 
