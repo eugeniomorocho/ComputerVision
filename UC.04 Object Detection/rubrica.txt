@@ -1,0 +1,32 @@
+1. Drawing a Bounding Box with OpenCV
+
+    | Criteria | Points | Description |
+    |-------------|-----------|----------------|
+    | 1. Image Loading | 1 | Successfully loads an image with at least three objects using `cv2.imread`. Correct file path and proper handling of image object. |
+    | 2. Bounding Boxes | 3 | Draws different colored bounding boxes around each object. Boxes have correct size and position, and line thickness is set to 5. |
+    | 3. Text Labels | 2 | Adds accurate text labels above each bounding box using `cv2.putText`. Labels are readable and positioned correctly. |
+    | 4. Automatic Detection Suggestion | 4 | Provides a clear and reasonable method to detect objects automatically. Shows understanding of dynamic object detection. |
+
+    Total: 10 points
+
+2. Real-time Object Detection with YOLO
+
+    | Criteria | Points | Description |
+    |-------------|-----------|----------------|
+    | 1. Application Definition and Problem Statement | 1 | Clearly defines a specific object detection application and its practical use case. Selects appropriate classes for the application context. |
+    | 2. Class Selection and Justification | 1 | Selects between 2-4 relevant classes from YOLOv8 model. Demonstrates thoughtful choice of classes for the specific application. |
+    | 3. Implementation | 4 | Successfully modifies the model logic or post-processing to only show selected classes. Code is functional and properly ignores non-selected classes. |
+    | 4. Testing & Evidence | 3 | Provides a clear test showing both detected (activated classes) and ignored (deactivated classes) objects. Evidence demonstrates the filtering works correctly. |
+    | 5. Documentation | 1 | Delivers complete documentation including PDF notebook, application title, class list, and proper screenshots. Submission is well-organized and professional. |
+
+    Total: 10 points
+
+3. Custom YOLO Object Detection with RoboFlow
+
+    | Criteria | Points | Description |
+    |-------------|-----------|----------------|
+    | 1. Dataset Creation | 3 | Successfully creates and annotates a custom dataset with at least 25 images and multiple classes in RoboFlow. |
+    | 2. Model Training | 3 | Properly trains a YOLOv8 model on the custom dataset with appropriate hyperparameters. |
+    | 3. Model Evaluation | 2 | Evaluates model performance with appropriate metrics and provides analysis of results. |
+    | 4. Custom Detection | 2 | Implements real-time detection with custom classes and displays results correctly. |
+    | 5. Documentation | 1 | Provides clear documentation of the process, including dataset details and model performance. |
