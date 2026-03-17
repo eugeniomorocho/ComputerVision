@@ -30,3 +30,6 @@
     | 3. Model Evaluation | 2 | Evaluates model performance with appropriate metrics and provides analysis of results. |
     | 4. Custom Detection | 2 | Implements real-time detection with custom classes and displays results correctly. |
     | 5. Documentation | 1 | Provides clear documentation of the process, including dataset details and model performance. |
+
+Overall: 30/30
+Final Grade: 10/10
