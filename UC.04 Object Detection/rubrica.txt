@@ -26,10 +26,10 @@
     | Criteria | Points | Description |
     |-------------|-----------|----------------|
     | 1. Dataset Creation | 3 | Successfully creates and annotates a custom dataset with at least 25 images and multiple classes in RoboFlow. |
-    | 2. Model Training | 3 | Properly trains a YOLOv8 model on the custom dataset with appropriate hyperparameters. |
+    | 2. Model Training | 3 | Properly trains a YOLO model on the custom dataset with appropriate hyperparameters. |
     | 3. Model Evaluation | 2 | Evaluates model performance with appropriate metrics and provides analysis of results. |
     | 4. Custom Detection | 2 | Implements real-time detection with custom classes and displays results correctly. |
     | 5. Documentation | 1 | Provides clear documentation of the process, including dataset details and model performance. |
 
 Overall: 30/30
-Final Grade: 10/10
+Final Grace: 10/10
