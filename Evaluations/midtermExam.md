@@ -40,7 +40,7 @@ You may use any dataset, but here are recommended options:
 
 ### Easy / Fast Setup
 - Kaggle satellite image datasets  
-- Google Earth Engine (exported images)  
+- Google Earth Engine / Google Earth Pro (API, or exported images)  
 - Public “before vs after” datasets (deforestation, disasters, etc.)
 
 ### Intermediate
