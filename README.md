@@ -216,19 +216,16 @@ Notebooks 1, 2, and 3.
 
 **Notebooks:** 
 1. Pose Estimation with YOLO  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.05%20Image%20Segmentation%20%26%20Pose%20Estimation/1.%20Pose%20estimation.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.05%20Image%20Segmentation%20%26%20Pose%20Estimation/1.%20Pose%20estimation%20with%20YOLO.ipynb)
 
 2. Image Segmentation  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.05%20Image%20Segmentation%20%26%20Pose%20Estimation/1.%20Pose%20estimation.ipynb)
-
-Segmentation **or** pose estimation mini-project  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.05%20Image%20Segmentation%20%26%20Pose%20Estimation/2.%20Instance%20segmentation%20with%20YOLO.ipynb) 
 
 **Assignments:**  
-- Lab 05  
-- [Online course](link)  
+- Segmentation **and** pose estimation mini-projects. Instructions and rubric is contained in the lecture notebooks.
 
 **Aditional Readings:**
-- **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
+- **Chapter 11: Image Segmentation** Chollet, F. (2026). Deep Learning with Python (3rd ed.). Manning Publications. https://deeplearningwithpython.io  
 - [YOLO Instance Segmentation](https://docs.ultralytics.com/tasks/segment/) 
 - [YOLO Pose Estimation](https://docs.ultralytics.com/tasks/pose/) 
 ---
@@ -269,7 +266,7 @@ Deploy a trained model as an API and consume it from the cloud (AWS, MS Azure, H
 - [Online course](link)  
 
 **Aditional Readings:**
-- **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
+- **Chapter x: title** Authors (year). Book. Publisher. https://url.com  
 - **Recommended Course:** [Getting Started with AI on Jetson Nano](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-RX-02+V2), from the [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/)  
    
    - Free courses: [Nvidia Deep Learning Institute (free courses)](https://www.nvidia.com/en-us/training/find-training/?Free+Courses=Free)
