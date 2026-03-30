@@ -211,7 +211,8 @@ Notebooks 1, 2, and 3.
 **Tools:** PyTorch, MediaPipe  
 
 **Datasets:**  
-[dataset](url)  
+- [COCO-Pose Dataset - 17 keypoints](https://docs.ultralytics.com/datasets/pose/coco/)  
+- [Hand Keypoints Dataset - 21 keypoints](https://docs.ultralytics.com/datasets/pose/hand-keypoints/)
 
 **Notebooks:**  
 Segmentation **or** pose estimation mini-project  
@@ -222,7 +223,7 @@ Segmentation **or** pose estimation mini-project
 
 **Aditional Readings:**
 - **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
-
+- [YOLO Pose Estimation](https://docs.ultralytics.com/tasks/pose/) 
 ---
 
 ### **Unit 6: Tracking & Video Analysis**
