@@ -266,7 +266,10 @@ Deploy a trained model as an API and consume it from the cloud (AWS, MS Azure, H
    
    - Free courses: [Nvidia Deep Learning Institute (free courses)](https://www.nvidia.com/en-us/training/find-training/?Free+Courses=Free)
 - [Jetson AI Lab](https://www.jetson-ai-lab.com)
-- [NVIDIA DeepSream SDK Developer Guide](https://docs.nvidia.com/metropolis/deepstream/dev-guide/index.html)
+- [NVIDIA Jetson with Ultralitics YOLO26](https://docs.ultralytics.com/guides/nvidia-jetson/)
+- [Ultralitics YOLO26 on NVIDIA Jetson using DeepStream SDK and TensorRT](https://docs.ultralytics.com/guides/deepstream-nvidia-jetson/)
+- [NVIDIA DeepSream SDK Developer Guide](https://docs.nvidia.com/metropolis/deepstream/dev-guide/index.html)  
+- [NVIDIS TAO Toolkit](https://developer.nvidia.com/tao-toolkit)
 
    ![NVIDIA pipeline](assets/cvDeploymentStandard.png)
 ---
