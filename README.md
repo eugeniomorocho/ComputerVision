@@ -214,7 +214,13 @@ Notebooks 1, 2, and 3.
 - [COCO-Pose Dataset - 17 keypoints](https://docs.ultralytics.com/datasets/pose/coco/)  
 - [Hand Keypoints Dataset - 21 keypoints](https://docs.ultralytics.com/datasets/pose/hand-keypoints/)
 
-**Notebooks:**  
+**Notebooks:** 
+1. Pose Estimation with YOLO  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.05%20Image%20Segmentation%20%26%20Pose%20Estimation/1.%20Pose%20estimation.ipynb)
+
+2. Image Segmentation  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.05%20Image%20Segmentation%20%26%20Pose%20Estimation/1.%20Pose%20estimation.ipynb)
+
 Segmentation **or** pose estimation mini-project  
 
 **Assignments:**  
@@ -223,6 +229,7 @@ Segmentation **or** pose estimation mini-project
 
 **Aditional Readings:**
 - **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
+- [YOLO Instance Segmentation](https://docs.ultralytics.com/tasks/segment/) 
 - [YOLO Pose Estimation](https://docs.ultralytics.com/tasks/pose/) 
 ---
 
