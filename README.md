@@ -212,7 +212,8 @@ Notebooks 1, 2, and 3.
 
 **Datasets:**  
 - [COCO-Pose Dataset - 17 keypoints](https://docs.ultralytics.com/datasets/pose/coco/)  
-- [Hand Keypoints Dataset - 21 keypoints](https://docs.ultralytics.com/datasets/pose/hand-keypoints/)
+- [Hand Keypoints Dataset - 21 keypoints, Ultralytics](https://docs.ultralytics.com/datasets/pose/hand-keypoints/)
+- [Face Landmark Detection, Mediapipe](https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker)
 
 **Notebooks:** 
 1. Pose Estimation with YOLO  
