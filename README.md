@@ -262,6 +262,11 @@ Deploy a trained model as an API and consume it from the cloud (AWS, MS Azure, H
 
 **Aditional Readings:**
 - **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
+- **Recommended Course:** [Getting Started with AI on Jetson Nano](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-RX-02+V2), from the [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/)  
+   
+   - Free courses: [Nvidia Deep Learning Institute (free courses)](https://www.nvidia.com/en-us/training/find-training/?Free+Courses=Free)
+
+- [Jetson AI Lab](https://www.jetson-ai-lab.com)
 
 ---
 
