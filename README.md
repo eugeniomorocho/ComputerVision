@@ -210,10 +210,12 @@ Notebooks 1, 2, and 3.
 
 **Tools:** PyTorch, MediaPipe  
 
-**Datasets:**  
+**Datasets and Pretrained Models:**  
 - [COCO-Pose Dataset - 17 keypoints](https://docs.ultralytics.com/datasets/pose/coco/)  
 - [Hand Keypoints Dataset - 21 keypoints, Ultralytics](https://docs.ultralytics.com/datasets/pose/hand-keypoints/)
 - [Face Landmark Detection, Mediapipe](https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker)
+- [Hand Landmark Detection, Mediapipe](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker)
+- [Interactive Image Segmentation, Mediapipe](https://ai.google.dev/edge/mediapipe/solutions/vision/interactive_segmenter)
 
 **Notebooks:** 
 1. Pose Estimation with YOLO  
