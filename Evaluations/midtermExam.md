@@ -27,7 +27,7 @@ You must define your own specific version:
 - Detect deforestation over time in a specific region  
 - Analyze changes in water bodies (e.g., shrinking rivers or lakes)  
 - Identify environmental damage (fires, erosion, human activity)  
-- Monitor vegetation health or land-use change  
+- Monitor vegetation health or land-use change (e.g., using mutispectral images)  
 
 Important:  
 Do not perform tasks like “segment water vs land” unless it is part of a clear applied objective.
@@ -47,7 +47,7 @@ You may use any dataset, but here are recommended options:
 - Sentinel-2 imagery  
 - Landsat datasets  
 
-### Advanced (Optional)
+### Advanced
 - AlphaEarth (for embeddings and advanced representations)
 
 ---
@@ -146,7 +146,7 @@ Focus on justifying your approach, not just showing results.
 | Criterion | Full Points (Max) | Partial Credit | Low / No Credit | Points |
 |----------|------------------|----------------|------------------|--------|
 | Problem Depth & Justification | Clear, specific, non-trivial problem with strong real-world relevance. | Problem lacks depth or clear motivation. | Generic, trivial, or unclear problem. | 1 |
-| Data & Pipeline Coherence | Dataset appropriate and well explained. Pipeline complete, logical, and justified (diagram or structured explanation). | Partial explanation OR weak coherence between steps. | Pipeline unclear, inconsistent, or unjustified. | 1 |
+| Data & Pipeline Coherence | Dataset appropriate and well explained. Pipeline complete, logical, and justified (diagram or system design). | Partial explanation OR weak coherence between steps. | Pipeline unclear, inconsistent, or unjustified. | 1 |
 | Model Implementation & Results | Model fully implemented. Results clearly presented, well visualized, and properly interpreted. Strong connection to the problem. | Model exists but results unclear OR weak interpretation. | No model OR no meaningful results. | 1.5 |
 | Critical Analysis | Clear explanation of limitations, errors, and what did NOT work, with reasoning. | Superficial discussion of limitations. | No critical analysis. | 0.5 |
 | Video Explanation (≤3 min) | Clear, structured explanation. Strong justification of pipeline, decisions, and trade-offs. Demonstrates real understanding. | Explanation present but unclear, incomplete, or superficial. | Poor explanation OR no justification of decisions. | 2 |
@@ -170,3 +170,56 @@ Focus on justifying your approach, not just showing results.
 ## Final Note
 
 This project will evolve into your Final Exam. High-quality work now will significantly reduce your workload later.
+
+---
+
+### Plain text rubric
+
+RUBRIC – SUBMISSION 1 (4 POINTS)
+
+Problem Definition & Justification (1 point)
+Full: Clearly defined, specific environmental problem with clear relevance and purpose.
+Partial: Problem defined but vague OR weak justification.
+Low/None: Problem unclear, generic, or missing.
+
+Image Acquisition & Visualization (1 point)
+Full: At least 10 relevant images. Clear visualizations with titles, captions, and interpretation.
+Partial: Fewer images OR missing captions/labels OR weak analysis.
+Low/None: Poor or no visualization, no explanation, no link to problem.
+
+Pipeline Design & Representation (1 point)
+Full: Pipeline implemented AND clearly explained (diagram or structured steps). All steps justified. No undefined terms.
+Partial: Pipeline exists but unclear OR weak explanation OR missing steps.
+Low/None: No clear pipeline OR appears copied without understanding.
+
+Model Implementation & Results (1 point)
+Full: Model implemented with results shown AND interpreted. Clear connection to problem.
+Partial: Model implemented but results unclear OR not explained.
+Low/None: No model OR no results.
+
+RUBRIC – SUBMISSION 2 (FINAL MIDTERM DELIVERY) (6 POINTS)
+
+Problem Depth & Justification (1 point)
+Full: Clear, specific, non-trivial problem with strong real-world relevance.
+Partial: Problem lacks depth or clear motivation.
+Low/None: Generic, trivial, or unclear problem.
+
+Data & Pipeline Coherence (1 point)
+Full: Dataset appropriate and well explained. Pipeline complete, logical, and justified (diagram or system design).
+Partial: Partial explanation OR weak coherence between steps.
+Low/None: Pipeline unclear, inconsistent, or unjustified.
+
+Model Implementation & Results (1.5 points)
+Full: Model fully implemented. Results clearly presented, well visualized, and properly interpreted. Strong connection to the problem.
+Partial: Model exists but results unclear OR weak interpretation.
+Low/None: No model OR no meaningful results.
+
+Critical Analysis (0.5 points)
+Full: Clear explanation of limitations, errors, and what did NOT work, with reasoning.
+Partial: Superficial discussion of limitations.
+Low/None: No critical analysis.
+
+Video Explanation (≤3 min) (2 points)
+Full: Clear, structured explanation. Strong justification of pipeline, decisions, and trade-offs. Demonstrates real understanding.
+Partial: Explanation present but unclear, incomplete, or superficial.
+Low/None: Poor explanation OR no justification of decisions.
