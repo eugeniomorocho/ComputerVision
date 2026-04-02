@@ -2,7 +2,7 @@
 
 ## Overview
 
-Your task is to design and implement a Computer Vision pipeline to analyze satellite imagery and address a real environmental problem.
+Your task is to design and implement a Computer Vision pipeline to analyze Galapagos' satellite imagery and address a real environmental problem.
 
 This midterm covers Units 1–4 and will evolve into your Final Project.
 
@@ -174,6 +174,8 @@ This project will evolve into your Final Exam. High-quality work now will signif
 ---
 
 ### Plain text rubric
+
+MIDTERM EVALUATION
 
 RUBRIC – SUBMISSION 1 (4 POINTS)
 
