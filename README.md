@@ -249,7 +249,7 @@ Object tracking in video streams
 - [Online course](link)  
 
 **Aditional Readings:**
-- **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
+- **Chapter 46, 47, 48, 49: Understanding Motion** Torralba, A., Isola, P., & Freeman, W. (2024). Foundations of Computer Vision. MIT Press. https://visionbook.mit.edu/part_understanding_motion.html
 
 ---
 
