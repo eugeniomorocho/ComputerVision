@@ -35,7 +35,7 @@ The player must interact using **camera-based input**, for example:
 
 ### 3. Game Modes (choose one)
 - **Single Player**
-- **Split Screen (2 players competing)**
+- **Optional - Split Screen (2 players competing)**
 
 ### 4. Technical Requirements
 - Use Python (recommended with OpenCV, YOLO, Mediapipe, etc.)
@@ -87,6 +87,20 @@ The player must interact using **camera-based input**, for example:
 - Avoid setups that require **complex calibration**
 - Think about **real users interacting quickly** (not just demos)
 
+## Internal Presentations
+**Monday April 27:**
+- Aldrin & Ariel
+- Jamil & Daniel
+- Joseph & Freddy
+- Carlos & Manuel
+- Mark & Lander
+- Steven & Kevin
+
+**Thursday April 30:**
+- Mateo Ch.
+- Mateo O. & Luis
+- Mateo & Harolt
+- Erik
 
 ## 🎯 Final Tip
 If a 6th-grade student **smiles, laughs, and wants to play again**, you nailed it.
