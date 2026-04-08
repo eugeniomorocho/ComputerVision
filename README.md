@@ -236,20 +236,27 @@ Notebooks 1, 2, and 3.
 ### **Unit 6: Tracking & Video Analysis**
 **Topics:** Detection vs tracking, classical trackers (KCF, CSRT), tracking-by-detection  
 
-**Tools:** OpenCV  
+**Tools:** OpenCV, Ultralytics  
 
 **Datasets:**  
-[dataset](url)  
+[PersonPath22](https://amazon-science.github.io/tracking-dataset/personpath22.html)  
+[Multiple Object Tracking Benchmark (MOT17)](https://motchallenge.net/data/MOT17/)  
 
 **Notebooks:**  
-Object tracking in video streams  
+1. Tracking with KCF, CSRT, and ByteTrack  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.06%20Tracking%20%26%20Video%20Análisis/1.%20Tracking.ipynb)  
 
 **Assignments:**  
-- Lab 06  
-- [Online course](link)  
+
+- *The assignment requirements are included in the lecture notebook.*  
 
 **Aditional Readings:**
 - **Chapter 46, 47, 48, 49: Understanding Motion** Torralba, A., Isola, P., & Freeman, W. (2024). Foundations of Computer Vision. MIT Press. https://visionbook.mit.edu/part_understanding_motion.html
+- **Multiple Object Tracking in Realtime** Anna Petrovicheva, OpenCV https://opencv.org/multiple-object-tracking-in-realtime/?ref=blog.roboflow.com
+- **What is Object Tracking in Computer Vision** Mrinal W, Roboflow https://blog.roboflow.com/what-is-object-tracking-computer-vision/
+- **How to Implement Object Tracking for Computer Vision**, Jacob Solawetz, Roboflow https://blog.roboflow.com/what-is-object-tracking-computer-vision/
+- **Multi-Object Tracking with Ultralytics YOLO**, Ultralytics documentation https://docs.ultralytics.com/modes/track/
+- **State-of-the-Art Real-time Multi-Object Trackers with NVIDIA DeepStream SDK 6.2**, NVIDIA Technical Blog https://developer.nvidia.com/blog/state-of-the-art-real-time-multi-object-trackers-with-nvidia-deepstream-sdk-6-2/
 
 ---
 
