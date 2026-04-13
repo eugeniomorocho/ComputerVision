@@ -1,0 +1,3 @@
+device,hardware_detail,cpu_cores,gpu_name,gpu_cores,latency,throughput,training_time,accuracy
+gpu,CPU: Apple M4 Pro | GPU: Apple Silicon GPU (MPS),14,Apple Silicon GPU (MPS),,0.0296063804626464,33.776503050133776,0.4223742485046386,15.767045454545457
+cpu,CPU: Apple M4 Pro | GPU: No dedicated GPU detected,14,No dedicated GPU detected,N/A,0.578644700050354,1.7281762019300952,3.835505962371826,14.346590909090908
