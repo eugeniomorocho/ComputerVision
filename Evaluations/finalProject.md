@@ -1,5 +1,22 @@
 # **Final Project – Computer Vision Game (Open House)**
 
+## Dates and groups
+The internal final project presentation will be held on:
+- **Monday, April 27th (13h00-16h00)**  
+  *  student 1, student 2  
+  *  student 1, student 2  
+  *  student 1, student 2  
+  *  student 1, student 2  
+  *  student 1, student 2
+  *  student 1, student 2
+
+- **Thursday, May 1st (16h00-18h00)**
+  *  student 1, student 2  
+  *  student 1, student 2  
+  *  student 1, student 2  
+  *  student 1, student 2 
+
+
 ## 📌 Objective
 Design and implement an **interactive game powered by Computer Vision** to be showcased during the university open house. The target audience will be **6th-grade high school students**, so your game must be:
 
