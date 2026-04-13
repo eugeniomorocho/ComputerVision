@@ -263,20 +263,19 @@ Notebooks 1, 2, and 3.
 ### **Unit 7: Model Deployment & Edge AI**
 **Topics:** Inference vs training, running models with ONNX runtime, vision model APIs, edge inference and hardware constraints  
 
-**Tools:** ONNX Runtime, FastAPI, Jetson Nano, MediaPipe, Flutter (iOS, Android and web)  
+**Tools:** GPUs, NVIDIA Jetson Nano
 
 **Datasets:**  
-[dataset](url)  
+[CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html), *Department of Computer Science, University of Toronto*  
 
 **Notebooks:**  
-Deploy a trained model as an API and consume it from the cloud (AWS, MS Azure, Huawei Cloud, Oracle Cloud, etc.) **or** run inference on Jetson Nano using the GPU **or** on a mobile phone, tablet, watch, TV, etc., using [Flutter](https://flutter.dev/) with MediaPipe  
+1. CPU vs. GPU  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.07%20Model%20Deployment%20%26%20Edge%20AI/1.%20CPUvsGPU.ipynb) 
 
 **Assignments:**  
-- Lab 07  
-- [Online course](link)  
+- The assignment is included in the notebook. 
 
 **Aditional Readings:**
-- **Chapter x: title** Authors (year). Book. Publisher. https://url.com  
 - **Recommended Course:** [Getting Started with AI on Jetson Nano](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-RX-02+V2), from the [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/)  
    
    - Free courses: [Nvidia Deep Learning Institute (free courses)](https://www.nvidia.com/en-us/training/find-training/?Free+Courses=Free)
