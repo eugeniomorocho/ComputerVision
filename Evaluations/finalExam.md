@@ -1,27 +1,28 @@
 # **Final Exam Guidelines**
 
-
-
-
+Week 20 April - 24 April: Unit 8 (Monday and Thursday)
+Week 27 April - 1 May: Final Project Presentations Part 1 (Monday - HOLIDAY -> Thursday)
+Week 4 May - 8 May: ECMC Open House (all week)
+Week 11 May - 15 May: Final Exam Presentations (5 min pitch)
+Week 18 May: Final Project Presentations Part 2
 
 ## Presentations Schedule
 
 After the Open House presentations on the week from 
 
-- **Monday, May 11th (13h00-16h00)**
+- **Monday, May 11th (13h00-14h00)**
   *  student 1, student 2  
   *  student 1, student 2  
   *  student 1, student 2  
   *  student 1, student 2
   *  student 1, student 2  
-  *  student 1, student 2   
 
-- **Thursday, May 14th (16h00-18h00)** 
+- **Thursday, May 14th (16h00-17h00)** 
   *  student 1, student 2  
   *  student 1, student 2  
   *  student 1, student 2  
   *  student 1, student 2 
-
+  *  student 1, student 2 
 
 Paper format LaTeX (Springer)
 
