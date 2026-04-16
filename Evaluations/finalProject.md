@@ -3,18 +3,19 @@
 ## Dates and groups
 The internal final project presentation will be held on:
 - **Monday, April 27th (13h00-16h00)**  
-  *  student 1, student 2  
-  *  student 1, student 2  
-  *  student 1, student 2  
-  *  student 1, student 2  
-  *  student 1, student 2
-  *  student 1, student 2
+  *  Aldrin, Ariel  
+  *  Mark, Lander  
+  *  Kevin, Steven  
+  *  Harolt, Mateo  
+  *  Freddy, Joseph  
 
-- **Thursday, May 1st (16h00-18h00)**
-  *  student 1, student 2  
-  *  student 1, student 2  
-  *  student 1, student 2  
-  *  student 1, student 2 
+- **Monday, May 4th (16h00-18h00)**
+  *  Jamil  
+  *  Daniel  
+  *  Luis, Mateo Oñate  
+  *  Mateo Chalacán
+  *  Erick 
+  *  Manuel, Carlos
 
 
 ## 📌 Objective
