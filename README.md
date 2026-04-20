@@ -289,22 +289,46 @@ Notebooks 1, 2, and 3.
 ---
 
 ### **Unit 8: Cloud & Modern Vision AI + Final Project Presentations**
-**Topics:** Cloud vision APIs, Vision Transformers, Segment Anything Model (conceptual), ethics and real-world deployment  
+**Topics:** Cloud vision APIs  
 
 **Tools:** Cloud vision services (overview)  
 
 **Datasets:**  
-[dataset](url)  
+[Access the dataset here](https://drive.google.com/drive/folders/1_dIEi3ydMg1GuzGIAzGjhwoJQpTiOaiT)  
+You'll be in charge of one (1) video. Follow the alphabetical order that matches your video. E.g.:  
+- `12d_5pm_c1.mp4` (Andi)
+- `12d_5pm_c2.mp4` (Castro)
+- ...  
 
 **Notebooks:**  
 Use a cloud or foundation vision model for inference and compare results  
 
+1. People Detection in Cloud Vision APIs   
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.08%20Cloud%20%26%20Modern%20Vision%20AI/Lab%2008%3A%20People%20Detection%20in%20Cloud%20Vision%20APIs.ipynb) 
+
 **Assignments:**  
-- Lab 08  
-- [Online course](link)  
+
+##### Step 1: Object detection (person)
+- With your assigned video, 
+
+- **Note:** Don't process all frames (its expensive and unnecessary) ~$57USD. Instead, you can process 1 frame each 5sec (0.2FPS) ~$7. 
+- *Hint:* You can convert your video to frames using `FFmpeg` (or similar) to extract an image each 5 sec: 
+
+   ```python
+   ffmpeg -i input.mp4 -vf fps=0.2 frames/output.jpg
+   ```
+
+##### Step 2: Image classification (genre and age range)
+- With the cropped person images, use Roboflow to tag the following labels (at least 20 labels per age class):
+   - `male`
+   - `female`
+   - `1_18`
+   - `19_50`
+   - `gt_50`
+- Retrain a **local YOLO model** (*or an equivalent, e.g., PeopleNet, DashCamNet, NanoOWL, SSD-Mobilenet, etc.*) to detect the classes on the video and print the results (classification metrics, number of detected labels in your video).
 
 **Aditional Readings:**
-- **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
+- **Amazon Rekognition** Amazon Web Services. [Website](https://aws.amazon.com/pm/rekognition/?trk=6f58ae4e-0833-45f9-a21c-424b56761d19&sc_channel=ps&ef_id=CjwKCAjwnZfPBhAGEiwAzg-VzLT1PXUihhIuB8yZ-OIG4AW4O_IVmC6ET75JN54FjUcFytubvU-92hoCQOIQAvD_BwE:G:s&s_kwcid=AL!4422!3!798628455734!p!!g!!amazon%20image%20analysis!23600694654!193803764356&gad_campaignid=23600694654&gbraid=0AAAAADjHtp9YXOk8icgBSpUNHeUCp0rT-&gclid=CjwKCAjwnZfPBhAGEiwAzg-VzLT1PXUihhIuB8yZ-OIG4AW4O_IVmC6ET75JN54FjUcFytubvU-92hoCQOIQAvD_BwE)  
 
 ---
 
