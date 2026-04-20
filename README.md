@@ -288,7 +288,7 @@ Notebooks 1, 2, and 3.
    ![NVIDIA pipeline](assets/cvDeploymentStandard.png)
 ---
 
-### **Unit 8: Cloud & Modern Vision AI + Final Project Presentations**
+### **Unit 8: Cloud & Modern Vision AI**
 **Topics:** Cloud vision APIs  
 
 **Tools:** Cloud vision services (overview)  
@@ -320,11 +320,12 @@ Use a cloud or foundation vision model for inference and compare results
 
 ##### Step 2: Image classification (genre and age range)
 - With the cropped person images, use Roboflow to tag the following labels (at least 20 labels per age class):
-   - `male`
-   - `female`
-   - `1_18`
-   - `19_50`
-   - `gt_50`
+   - `male_1_18`
+   - `female_1_18`
+   - `male_19_50`
+   - `female_19_50`
+   - `male_gt_50`
+   - `female_gt_50`
 - Retrain a **local YOLO model** (*or an equivalent, e.g., PeopleNet, DashCamNet, NanoOWL, SSD-Mobilenet, etc.*) to detect the classes on the video and print the results (classification metrics, number of detected labels in your video).
 
 **Aditional Readings:**
