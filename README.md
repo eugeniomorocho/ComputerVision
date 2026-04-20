@@ -309,7 +309,8 @@ Use a cloud or foundation vision model for inference and compare results
 **Assignments:**  
 
 ##### Step 1: Object detection (person)
-- With your assigned video, 
+
+- With your assigned video, use *Amazon Rekognition* to detect people.  
 
 - **Note:** Don't process all frames (its expensive and unnecessary) ~$57USD. Instead, you can process 1 frame each 5sec (0.2FPS) ~$7. 
 - *Hint:* You can convert your video to frames using `FFmpeg` (or similar) to extract an image each 5 sec: 
