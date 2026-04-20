@@ -319,7 +319,7 @@ Use a cloud or foundation vision model for inference and compare results
    ```
 
 ##### Step 2: Image classification (genre and age range)
-- With the cropped person images, use Roboflow to tag the following labels (at least 20 labels per age class):
+- With the cropped person images, use Roboflow to tag the following labels (at least 15 labels per age class):
    - `male_1_18`
    - `female_1_18`
    - `male_19_50`
