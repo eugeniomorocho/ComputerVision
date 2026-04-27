@@ -9,7 +9,7 @@ The internal final project presentation will be held on:
   *  Harolt, Mateo  
   *  Freddy, Joseph  
 
-- **Monday, May 4th (16h00-18h00)**
+- **Monday, May 4th (13h00-16h00)**
   *  Jamil  
   *  Daniel  
   *  Luis, Mateo Oñate  
