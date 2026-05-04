@@ -7,15 +7,15 @@ The internal final project presentation will be held on:
   *  Mark, Lander  
   *  Kevin, Steven  
   *  Harolt, Mateo  
-  *  Freddy, Joseph  
+  *  Freddy, Joseph 
+  *  Manuel, Carlos 
 
 - **Monday, May 4th (13h00-16h00)**
   *  Jamil  
   *  Daniel  
   *  Luis, Mateo Oñate  
-  *  Mateo Chalacán
-  *  Erick 
-  *  Manuel, Carlos
+  *  Mateo Chalacán  
+  *  Erick  
 
 
 ## 📌 Objective
@@ -104,21 +104,6 @@ The player must interact using **camera-based input**, for example:
 - The game must be **robust enough for continuous use**
 - Avoid setups that require **complex calibration**
 - Think about **real users interacting quickly** (not just demos)
-
-## Internal Presentations
-**Monday April 27:**
-- Aldrin & Ariel
-- Jamil & Daniel
-- Joseph & Freddy
-- Carlos & Manuel
-- Mark & Lander
-- Steven & Kevin
-
-**Thursday April 30:**
-- Mateo Ch.
-- Mateo O. & Luis
-- Mateo & Harolt
-- Erik
 
 ## 🎯 Final Tip
 If a 6th-grade student **smiles, laughs, and wants to play again**, you nailed it.
