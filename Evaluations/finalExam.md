@@ -30,7 +30,7 @@ After the Open House presentations on the week from
 
 Paper format LaTeX (Springer)
 
-Max. 10 pages.
+Max. 6 pages.
 
 Written in English (including text on images, etc.)
 
