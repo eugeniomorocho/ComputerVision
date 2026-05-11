@@ -14,18 +14,19 @@ After the Open House presentations on the week from
 
 - **Monday, May 11th (13h00-14h00)**
   *  Mark, Lander    
-  *  Mateo Oñate  
+  *  Mateo Oñate (not presented)  
   *  Aldrin, Ariel    
   *  Harolt, Mateo
   *  Kevin, Steven  
-  *  Freddy, Joseph
+  *  Manuel, Carlos 
 
 - **Thursday, May 14th (16h00-17h00)** 
   *  Jamil
   *  Mateo Chalacán  
   *  Daniel
   *  Erick
-  *  Luis
+  *  Luis  
+  *  Freddy, Joseph 
 
 Paper format LaTeX (Springer)
 
