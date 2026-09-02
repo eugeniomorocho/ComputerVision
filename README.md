@@ -403,7 +403,3 @@ If you encounter any issues or have suggestions for improvement, please [open an
 <b>Prepared by:</b><br>
 Manuel Eugenio Morocho-Cayamcela, Ph.D.
 </p>
-
-<div style="text-align: right;">
-  <img src="assets/yt.png" alt="drawing" style="width: 100px;" />
-</div>
