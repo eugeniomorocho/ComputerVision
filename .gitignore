@@ -29,6 +29,7 @@ data/
 *.pb
 yolo*.pt
 **/yolo-Weights/
+*.joblib
 
 # IDE
 .vscode/
@@ -42,3 +43,12 @@ Thumbs.db
 
 # Logs
 *.log
+
+# YOLO generated artifacts
+runs/
+**/runs/
+*.pt
+*.avi
+*.mp4
+*.mov
+*.cache
