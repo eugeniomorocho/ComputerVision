@@ -13,7 +13,7 @@ ENV/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
-# Dataset files (too large for GitHub)
+# Dataset folders (if you don't want them in Git)
 datasets/
 data/
 */data/
@@ -21,7 +21,7 @@ data/
 *.tar.gz
 *.zip
 
-# Model weights
+# Model weights / outputs
 *.pt
 *.pth
 *.onnx
@@ -31,24 +31,18 @@ yolo*.pt
 **/yolo-Weights/
 *.joblib
 
-# IDE
+# YOLO training artifacts
+runs/
+**/runs/
+*.cache
+
+# IDE / OS
 .vscode/
 .idea/
 *.swp
 *.swo
-
-# OS
 .DS_Store
 Thumbs.db
 
 # Logs
 *.log
-
-# YOLO generated artifacts
-runs/
-**/runs/
-*.pt
-*.avi
-*.mp4
-*.mov
-*.cache
