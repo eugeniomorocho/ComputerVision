@@ -1,4 +1,3 @@
-# Computer Vision
 Welcome to the GitHub repository for the Computer Vision course at Yachay Tech University. This repository is designed to provide you with hands-on experience and in-depth understanding of fundamental deep learning-based artificial perception topics. The repository includes both coding exercises and project-based activities, and were created using Python 3.x as the interpreter.
 
 ## Getting Started
