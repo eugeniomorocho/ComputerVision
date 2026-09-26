@@ -1,40 +1,52 @@
-Welcome to the GitHub repository for the Computer Vision course at Yachay Tech University. This repository is designed to provide you with hands-on experience and in-depth understanding of fundamental deep learning-based artificial perception topics. The repository includes both coding exercises and project-based activities, and were created using Python 3.x as the interpreter.
+This repository is designed to provide you with hands-on experience on fundamental deep learning-based artificial perception topics. The repository includes both coding exercises and project-based activities.
+
+## Prerequisites
+
+- Install Git and Python 3.
+- Run notebooks in Jupyter, VS Code, or Google Colab; follow each lab's instructions for dependencies.
+- Internet access is needed for some datasets and models. A GPU is optional unless a lab requires one.
+- Unit 8 uses external services. Check costs and never commit API keys to GitHub.
 
 ## Getting Started
-1. Clone this repository to your local machine:  
 
-   ```
-   git clone https://github.com/eugeniomorocho/Computer_Vision.git
-   ```
+Clone the repository and enter its folder:
 
-2. Navigate to the specific Notebook's directory:  
+```bash
+git clone https://github.com/eugeniomorocho/ComputerVision.git
+cd ComputerVision
+```
 
-   ```
-   cd Computer_Vision/<folder>/<notebook.ipynb>/
-   ```
-   
-3. Follow the instructions in the file for each week's lab.
+Create a virtual environment with your installed Python 3 interpreter:
 
-4. To update your local fork to the newest commit, execute:
+```bash
+python -m venv .venv
+```
 
-   ```
-   git fetch 
-   ```
+Activate it:
 
-## Requirements
+```bash
+# macOS/Linux
+source .venv/bin/activate
+```
 
-- `Python 3.x` as the interpreter
-- Additional dependencies specified in each week's lab instructions
-- Create a [GitHub](https://github.com) repository for submitting your assignments and add `@eugeniomorocho` as collaborator.
+```powershell
+# Windows PowerShell
+.venv\Scripts\Activate.ps1
+```
 
-## Minimum Contents
+Install the notebook kernel and the dependencies listed in the lab instructions:
 
-- Image formation, image processing, feature extraction, segmentation, computational photography, 3D reconstruction, and object
-detection and recognition.
+```bash
+python -m pip install --upgrade pip ipykernel
+```
 
-## Learning Outcomes
+Select `.venv` as the notebook's Python kernel. If using Google Colab, skip the local environment setup and follow the notebook's setup instructions.
 
-- Process data from visual representations, images, and video to extract information. Classify images and extract features.
+To get later repository updates, run this from inside the repository:
+
+```bash
+git pull
+```
 
 ## Course Contents
 
@@ -53,22 +65,22 @@ Unit 1: Foundations of Computer Vision & Convolutions
 **Notebooks:**  
 
 1. Images as tensors  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.01%20Introduction%20to%20Computer%20Vision/1.%20Images%20as%20tensors.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ComputerVision/blob/main/UC.01%20Foundations%20of%20CV%20%26%20Convolutions/1.%20Images%20as%20tensors.ipynb)
 
 2. Image filtering and convolution   
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.01%20Introduction%20to%20Computer%20Vision/2.%20Filters%20and%20convolution.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ComputerVision/blob/main/UC.01%20Foundations%20of%20CV%20%26%20Convolutions/2.%20Filters%20and%20convolution.ipynb)
 
 3. Filters in OpenCV  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.01%20Foundations%20of%20CV%20%26%20Convolutions/3.%20Filters%20in%20openCV.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ComputerVision/blob/main/UC.01%20Foundations%20of%20CV%20%26%20Convolutions/3.%20Filters%20in%20openCV.ipynb)
 
 **Assignments:**  
 
 - *Lab 01:* Classification with Filters  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.01%20Foundations%20of%20CV%20%26%20Convolutions/Lab%2001%3A%20Classification%20with%20filters.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ComputerVision/blob/main/UC.01%20Foundations%20of%20CV%20%26%20Convolutions/Lab%2001%3A%20Classification%20with%20filters.ipynb)
 
 - *DataCamp* course: [Image Processing in Python](https://app.datacamp.com/learn/courses/image-processing-in-python)
 
-**Aditional Readings:**
+**Additional Readings:**
 
 - **Chapter 15: Linear Image Filtering** Torralba, A., Isola, P., & Freeman, W. (2024). *Foundations of Computer Vision*. MIT Press. https://visionbook.mit.edu/
 
@@ -102,14 +114,14 @@ Unit 2: CNNs for Image Classification
 **Notebooks:**  
 
 1. Train a CNN for image classification with PyTorch  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.02%20CNNs%20for%20Image%20Classification/1.%20Train%20a%20CNN%20for%20image%20classification%20with%20PyTorch.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ComputerVision/blob/main/UC.02%20CNNs%20for%20Image%20Classification/1.%20Train%20a%20CNN%20for%20image%20classification%20with%20PyTorch.ipynb)
 
 **Assignments:**  
 - *Lab 02:* Create your own CNN  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.02%20CNNs%20for%20Image%20Classification/Lab%2002%3A%20Image%20classifier.ipynb)  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ComputerVision/blob/main/UC.02%20CNNs%20for%20Image%20Classification/Lab%2002%3A%20Image%20classifier.ipynb)  
 - *DataCamp* course: [Introduction to Deep Learning with PyTorch](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-pytorch)  
 
-**Aditional Readings:**
+**Additional Readings:**
 
 - **Chapter 3: Building a Deep Neural Network with PyTorch** Ayyadevara, V. K., & Reddy, Y. (2024). *Modern Computer Vision with PyTorch: A practical roadmap from Deep Learning fundamentals to advanced applications and Generative AI (2nd ed.)*. Packt Publishing Ltd. https://www.packtpub.com/en-mt/product/modern-computer-vision-with-pytorch-9781803240930
 
@@ -132,12 +144,12 @@ Unit 2: CNNs for Image Classification
  **Slides**
 Unit 3: CNNs for Image Classification
 
-*Part 1:* [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.03%20Transfer%20Learning%20%26%20Model%20Improvement/Lab_03-Model_Improvement.ipynb)  
+*Part 1:* [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://github.com/eugeniomorocho/ComputerVision/blob/main/UC.03%20Transfer%20Learning%20%26%20Model%20Improvement/Lab_03-Model_Improvement.ipynb)**(((REVIEW)))**
 
 **Notebooks:**
 
 1. Transfer learning for Computer Vision in Keras  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.03%20Transfer%20Learning%20%26%20Model%20Improvement/Image%20classification/Clasificacion_imagenes_perros_gatos_VGG-16_transfer_learning.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ComputerVision/blob/main/UC.03%20Transfer%20Learning%20%26%20Model%20Improvement/Image%20classification/Clasificacion_imagenes_perros_gatos_VGG-16_transfer_learning.ipynb)
 
 2. Transfer learning for Computer Vision in PyTorch  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://docs.pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
@@ -145,9 +157,9 @@ Unit 3: CNNs for Image Classification
 **Assignments:**  
 
 - *Lab 03:* Model Improvement  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.03%20Transfer%20Learning%20%26%20Model%20Improvement/Lab_03-Model_Improvement.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ComputerVision/blob/main/UC.03%20Transfer%20Learning%20%26%20Model%20Improvement/Lab_03-Model_Improvement.ipynb)
 
-**Aditional Readings:**
+**Additional Readings:**
 
 - **Chapter 37: Transfer Learning and Adaptation** Torralba, A., Isola, P., & Freeman, W. (2024). *Foundations of Computer Vision*. MIT Press. https://visionbook.mit.edu/
 
@@ -173,13 +185,13 @@ Unit 3: CNNs for Image Classification
 
 **Notebooks:**  
 1. Drawing a Bounding Box with OpenCV  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.06%20Object%20Detection%20(YOLO%20%2B%20Roboflow)/Object%20Detection/1.%20Drawing%20a%20Bounding%20Box%20with%20OpenCV.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ComputerVision/blob/main/UC.04%20Object%20Detection/1.%20Drawing%20a%20Bounding%20Box%20with%20OpenCV.ipynb)
 
 2. Real-time Object Detection with YOLO  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.06%20Object%20Detection%20(YOLO%20%2B%20Roboflow)/Object%20Detection/2.%20Real-time%20Object%20Detection%20with%20YOLO.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ComputerVision/blob/main/UC.04%20Object%20Detection/2.%20Real-time%20Object%20Detection%20with%20YOLO.ipynb)
 
 3. Custom YOLO Object Detection with Roboflow  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.06%20Object%20Detection%20(YOLO%20%2B%20Roboflow)/Object%20Detection/3.%20Custom%20YOLO%20Object%20Detection%20with%20Roboflow.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ComputerVision/blob/main/UC.04%20Object%20Detection/3.%20Custom%20YOLO%20Object%20Detection%20with%20Roboflow.ipynb)
 
 **Resources:**
 
@@ -189,18 +201,17 @@ Unit 3: CNNs for Image Classification
 **Tools:** Ultralytics YOLO, Roboflow, OpenCV (Bounding Boxes Notebook)  
 
 **Datasets:**  
-[Common Objects in Contexr (COCO)](https://cocodataset.org/#home)  
+[Common Objects in Context (COCO)](https://cocodataset.org/#home)  
 
 **Notebooks:**  
 - Train an object detector on a custom dataset using [Roboflow](https://roboflow.com)  
 
-- [Roboflow tutorial](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.04%20Object%20Detection/Object%20Detection/roboflow_tutorial.pdf)
+- [Roboflow tutorial](https://github.com/eugeniomorocho/ComputerVision/blob/main/UC.04%20Object%20Detection/roboflow_tutorial.pdf)
 
 **Assignments:**  
 Notebooks 1, 2, and 3.
 
-**Aditional Readings:**
-- **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
+**Additional Readings:**
 
 ---
 
@@ -212,21 +223,21 @@ Notebooks 1, 2, and 3.
 **Datasets and Pretrained Models:**  
 - [COCO-Pose Dataset - 17 keypoints](https://docs.ultralytics.com/datasets/pose/coco/)  
 - [Hand Keypoints Dataset - 21 keypoints, Ultralytics](https://docs.ultralytics.com/datasets/pose/hand-keypoints/)
-- [Face Landmark Detection, Mediapipe](https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker)
-- [Hand Landmark Detection, Mediapipe](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker)
-- [Interactive Image Segmentation, Mediapipe](https://ai.google.dev/edge/mediapipe/solutions/vision/interactive_segmenter)
+- [Face Landmark Detection, MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker)
+- [Hand Landmark Detection, MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker)
+- [Interactive Image Segmentation, MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/vision/interactive_segmenter)
 
 **Notebooks:** 
 1. Pose Estimation with YOLO  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.05%20Image%20Segmentation%20%26%20Pose%20Estimation/1.%20Pose%20estimation%20with%20YOLO.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ComputerVision/blob/main/UC.05%20Image%20Segmentation%20%26%20Pose%20Estimation/1.%20Pose%20estimation%20with%20YOLO.ipynb)
 
 2. Image Segmentation  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.05%20Image%20Segmentation%20%26%20Pose%20Estimation/2.%20Instance%20segmentation%20with%20YOLO.ipynb) 
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ComputerVision/blob/main/UC.05%20Image%20Segmentation%20%26%20Pose%20Estimation/2.%20Instance%20segmentation%20with%20YOLO.ipynb) 
 
 **Assignments:**  
 - Segmentation **and** pose estimation mini-projects. Instructions and rubric is contained in the lecture notebooks.
 
-**Aditional Readings:**
+**Additional Readings:**
 - **Chapter 11: Image Segmentation** Chollet, F. (2026). Deep Learning with Python (3rd ed.). Manning Publications. https://deeplearningwithpython.io  
 - [YOLO Instance Segmentation](https://docs.ultralytics.com/tasks/segment/) 
 - [YOLO Pose Estimation](https://docs.ultralytics.com/tasks/pose/) 
@@ -243,13 +254,13 @@ Notebooks 1, 2, and 3.
 
 **Notebooks:**  
 1. Tracking with KCF, CSRT, and ByteTrack  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.06%20Tracking%20%26%20Video%20Análisis/1.%20Tracking.ipynb)  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ComputerVision/blob/main/UC.06%20Tracking%20%26%20Video%20An%C3%A1lisis/1.%20Tracking.ipynb)  
 
 **Assignments:**  
 
 - *The assignment requirements are included in the lecture notebook.*  
 
-**Aditional Readings:**
+**Additional Readings:**
 - **Chapter 46, 47, 48, 49: Understanding Motion** Torralba, A., Isola, P., & Freeman, W. (2024). Foundations of Computer Vision. MIT Press. https://visionbook.mit.edu/part_understanding_motion.html
 - **Multiple Object Tracking in Realtime** Anna Petrovicheva, OpenCV https://opencv.org/multiple-object-tracking-in-realtime/?ref=blog.roboflow.com
 - **What is Object Tracking in Computer Vision** Mrinal W, Roboflow https://blog.roboflow.com/what-is-object-tracking-computer-vision/
@@ -269,20 +280,20 @@ Notebooks 1, 2, and 3.
 
 **Notebooks:**  
 1. CPU vs. GPU  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.07%20Model%20Deployment%20%26%20Edge%20AI/1.%20CPUvsGPU.ipynb) 
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ComputerVision/blob/main/UC.07%20Model%20Deployment%20%26%20Edge%20AI/1.%20CPUvsGPU.ipynb) 
 
 **Assignments:**  
 - The assignment is included in the notebook. 
 
-**Aditional Readings:**
+**Additional Readings:**
 - **Recommended Course:** [Getting Started with AI on Jetson Nano](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-RX-02+V2), from the [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/)  
    
    - Free courses: [Nvidia Deep Learning Institute (free courses)](https://www.nvidia.com/en-us/training/find-training/?Free+Courses=Free)
 - [Jetson AI Lab](https://www.jetson-ai-lab.com)
-- [NVIDIA Jetson with Ultralitics YOLO26](https://docs.ultralytics.com/guides/nvidia-jetson/)
-- [Ultralitics YOLO26 on NVIDIA Jetson using DeepStream SDK and TensorRT](https://docs.ultralytics.com/guides/deepstream-nvidia-jetson/)
-- [NVIDIA DeepSream SDK Developer Guide](https://docs.nvidia.com/metropolis/deepstream/dev-guide/index.html)  
-- [NVIDIS TAO Toolkit](https://developer.nvidia.com/tao-toolkit)
+- [NVIDIA Jetson with Ultralytics YOLO26](https://docs.ultralytics.com/guides/nvidia-jetson/)
+- [Ultralytics YOLO26 on NVIDIA Jetson using DeepStream SDK and TensorRT](https://docs.ultralytics.com/guides/deepstream-nvidia-jetson/)
+- [NVIDIA DeepStream SDK Developer Guide](https://docs.nvidia.com/metropolis/deepstream/dev-guide/index.html)  
+- [NVIDIA TAO Toolkit](https://developer.nvidia.com/tao-toolkit)
 
    ![NVIDIA pipeline](assets/cvDeploymentStandard.png)
 ---
@@ -303,9 +314,11 @@ You'll be in charge of one (1) video. Follow the alphabetical order that matches
 Use a cloud or foundation vision model for inference and compare results  
 
 1. People Detection in Cloud Vision APIs   
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.08%20Cloud%20%26%20Modern%20Vision%20AI/Lab%2008%3A%20People%20Detection%20in%20Cloud%20Vision%20APIs.ipynb) 
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ComputerVision/blob/main/UC.08%20Cloud%20%26%20Modern%20Vision%20AI/%28full%29%20Lab%2008%3A%20People%20Detection%20in%20Cloud%20Vision%20APIs.ipynb) 
 
 **Assignments:**  
+
+**Privacy and responsible use:** Process only videos you are authorized to use. Before uploading identifiable footage to cloud services, review course policies and the provider's data-handling terms. Age and gender labels are model estimates, can be inaccurate, and should not be treated as ground truth.
 
 ##### Step 1: Object detection (person)
 
@@ -328,14 +341,18 @@ Use a cloud or foundation vision model for inference and compare results
    - `female_gt_50`
 - Retrain a **local YOLO model** (*or an equivalent, e.g., PeopleNet, DashCamNet, NanoOWL, SSD-Mobilenet, etc.*) to detect the classes on the video and print the results (classification metrics, number of detected labels in your video).
 
-**Aditional Readings:**
+**Additional Readings:**
 - **Amazon Rekognition** Amazon Web Services. [Website](https://aws.amazon.com/pm/rekognition/?trk=6f58ae4e-0833-45f9-a21c-424b56761d19&sc_channel=ps&ef_id=CjwKCAjwnZfPBhAGEiwAzg-VzLT1PXUihhIuB8yZ-OIG4AW4O_IVmC6ET75JN54FjUcFytubvU-92hoCQOIQAvD_BwE:G:s&s_kwcid=AL!4422!3!798628455734!p!!g!!amazon%20image%20analysis!23600694654!193803764356&gad_campaignid=23600694654&gbraid=0AAAAADjHtp9YXOk8icgBSpUNHeUCp0rT-&gclid=CjwKCAjwnZfPBhAGEiwAzg-VzLT1PXUihhIuB8yZ-OIG4AW4O_IVmC6ET75JN54FjUcFytubvU-92hoCQOIQAvD_BwE)  
 
 ---
 
+## Assignment Submission
+
+- Create a private GitHub repository for your assignments and add `@eugeniomorocho` as a collaborator.
+
 ## Support and Feedback
 
-If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/eugeniomorocho/Computer_Vision/issues). We appreciate your feedback!
+If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/eugeniomorocho/ComputerVision/issues). We appreciate your feedback!
 
 ---
 
