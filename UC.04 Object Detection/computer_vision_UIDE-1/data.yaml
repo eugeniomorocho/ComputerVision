@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['taza']
+
+roboflow:
+  workspace: eugenio-tblbg
+  project: computer_vision_uide
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/eugenio-tblbg/computer_vision_uide/dataset/1
