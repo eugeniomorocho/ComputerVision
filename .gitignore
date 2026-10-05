@@ -45,4 +45,9 @@ runs/
 Thumbs.db
 
 # Logs
-*.log*.avi
+*.log
+*.avi
+*.mp4
+*.mov
+*.mkv
+*.webm
